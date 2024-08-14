@@ -1,4 +1,7 @@
-# CreateTemplateKtJvm
+# create-template-kotlin
+
+> [!CAUTION]
+> This is no longer maintained and used
 
 A Tool for create template
 
